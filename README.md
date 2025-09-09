@@ -8,7 +8,6 @@ Welcome to my GitHub portfolio! I’m currently a junior at the University of Ho
 - 📚 Skills: I want hightlight on building my portfolio and projects
 - 🔭 I’m working on: Creating my FIRST project and completing my Google certificate
 - 🤝 I’m looking to collaborate on: any python project please!
-- 🤳 In my freetime I make tiktok content: [@melissalexmus](https://www.tiktok.com/@melissalxmus) 
 - 📧 How to reach me: melissalemus5@gmail.com
   
 ##  Tech Stack and Stats
