@@ -23,7 +23,7 @@ Here are some projects I'm working on or have completed: CURRENTLY IN PROGRESS (
 - Short description of the project.
 - Technologies: [Tech stack, e.g., HTML, CSS]
 
-### [Project Name 2](link-to-repo)
+### My Website Portfolio
 - Short description of the project.
 - Technologies: [Tech stack, e.g., Python, Flask]
 
