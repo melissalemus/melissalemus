@@ -6,7 +6,7 @@ Welcome to my GitHub portfolio! I’m currently a junior at the University of Ho
 
 - 👩‍💻 I’m currently learning: HTML, CSS, and MySQL
 - 📚 Skills: I want hightlight on building my portfolio and projects
-- 🔭 I’m working on: Creating my FIRST project and completing my Google certificate
+- 🔭 I’m working on: completing my bachelors, more certifications and projects :)
 - 🤝 I’m looking to collaborate on: any python project please!
 - 📧 How to reach me: melissalemus5@gmail.com
   
