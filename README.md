@@ -19,21 +19,13 @@ Welcome to my GitHub portfolio! I’m currently a junior at the University of Ho
 
 Here are some projects I'm working on or have completed: CURRENTLY IN PROGRESS (COMING SOON)
 
-### [Project Name 1](link-to-repo)
+### File Guardian 
 - Short description of the project.
 - Technologies: [Tech stack, e.g., HTML, CSS]
 
 ### [Project Name 2](link-to-repo)
 - Short description of the project.
 - Technologies: [Tech stack, e.g., Python, Flask]
-
-## 📚 Learning Resources
-
-- [freeCodeCamp](https://www.freecodecamp.org/)
-- [Codecademy](https://www.codecademy.com/)
-- [The Odin Project](https://www.theodinproject.com/)
-- [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
-
 
 Feel free to connect or check out my projects below!
 
