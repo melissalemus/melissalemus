@@ -4,7 +4,7 @@ Welcome to my GitHub portfolio! I’m currently a junior at the University of Ho
 
 ##  About Me
 
-- 👩‍💻 I’m currently learning: HTML, CSS, and JavaScript
+- 👩‍💻 I’m currently learning: HTML, CSS, and MySQL
 - 📚 Skills: I want hightlight on building my portfolio and projects
 - 🔭 I’m working on: Creating my FIRST project and completing my Google certificate
 - 🤝 I’m looking to collaborate on: any python project please!
