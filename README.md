@@ -24,8 +24,5 @@ Check them out down below!
 - Check out my File Guardian encryption tool here: [File Guardian](https://github.com/melissalemus/File-Guardian)
 
 ### My Website Portfolio
-- Short description of the project.
-- Technologies: [Tech stack, e.g., Python, Flask]
-
-Feel free to connect or check out my projects below!
+- This is my personal website with a strong focus on cybersecurity. I’m currently building it using HTML, CSS, and JavaScript, while continuing to grow my skills in web development and security. The site will have a modern, security-themed design and showcase what I’ve been learning. It’s still in the works, but I’m excited to launch it soon and share it with the world!
 
