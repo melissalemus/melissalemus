@@ -1,6 +1,6 @@
 # Hi there, I'm Melissa!
 
-Welcome to my GitHub portfolio! I’m currently a junior at the University of Houston studying Computer Information Systems. I’m a beginner coder learning the basics like programming and how systems work. I’m excited to keep learning and improving my skills.
+Welcome to my GitHub portfolio! I’m currently a junior at the University of Houston studying Computer Information Systems. I’m a beginner coder learning the basics of programming and how systems work. I’m excited to keep learning and improving my skills!
 
 ##  About Me
 
@@ -20,8 +20,8 @@ Welcome to my GitHub portfolio! I’m currently a junior at the University of Ho
 Here are some projects I'm working on or have completed: CURRENTLY IN PROGRESS (COMING SOON)
 
 ### File Guardian 
-- Short description of the project.
-- Technologies: [Tech stack, e.g., HTML, CSS]
+- A simple Python tool made with Visual Studio Code that lets you encrypt and decrypt files using a password. It helps keep your files safe and private with easy-to-use commands.
+- Check out my File Guardian encryption tool here: [File Guardian](https://github.com/melissalemus/File-Guardian)
 
 ### My Website Portfolio
 - Short description of the project.
