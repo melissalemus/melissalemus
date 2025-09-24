@@ -17,7 +17,7 @@ Welcome to my GitHub portfolio! I’m currently a junior at the University of Ho
 
 ##  Projects
 
-Here are some projects I'm working on or have completed: CURRENTLY IN PROGRESS (COMING SOON)
+Check them out down below!
 
 ### File Guardian 
 - A simple Python tool made with Visual Studio Code that lets you encrypt and decrypt files using a password. It helps keep your files safe and private with easy-to-use commands.
